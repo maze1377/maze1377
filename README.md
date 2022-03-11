@@ -1,13 +1,13 @@
 <header>
   <h1 align="center">
-    Hi , I'm Mahdi Akbari
+    Hi , I'm Mahdi Akbari Zarkesh
     <img
       src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
       width="35"
     />
   </h1>
 </header>
-<h3 align="center">Software Engineering🌟</h3>
+<h3 align="center">Software Engineer🌟</h3>
 <div align="center">
   <a href="https://www.linkedin.com/in/maz1377"
     ><img
@@ -24,14 +24,20 @@
       src="https://img.shields.io/badge/m_akbarizarkesh@yahoo.com-black?style=flat&logo=maildotru&logoColor=white"
       alt="Mail"
   /></a>
+  <a href="mahdiAkbariZarkesh.ir"
+    ><img
+      src="https://img.shields.io/badge/homePage-red?style=flat&logo=homePage"
+      alt="homePage"
+  /></a>
 </div>
 <main align="left">
   <article>
     <ul>
       <li>
         <p>
-          I'm a <strong>Software Engineer </strong> with +4 years of experience
-          in <strong>high scale production</strong>,
+          I'm a <strong>Software Engineer</strong> with
+          <strong>+4 years</strong> of experience in
+          <strong>large scale production</strong>,
           <strong>distributed systems</strong>,
           <strong>microservice architecture</strong>, and
           <strong>DevOps</strong> engineering.
@@ -40,9 +46,10 @@
       <li>
         <p>
           I code in <strong>Golang</strong>, <strong>Python</strong>,
-          <strong>C++</strong> and <strong>Scala</strong>. I’ve solid experience
-          in databases, such as <strong>PostgreSQL</strong>,
-          <strong>MongoDB</strong>, and <strong>Redis</strong>.
+          <strong>C++</strong>, and <strong>Scala</strong>. I have a solid
+          background in designing and maintaining databases, such as
+          <strong>PostgreSQL</strong>, <strong>MongoDB</strong>, and
+          <strong>Redis</strong>.
         </p>
       </li>
       <li>
@@ -50,6 +57,13 @@
           I consider myself as a <strong>committed</strong> person, with good
           <strong>teamwork</strong> skills and a great sense of
           <strong>solution providing</strong>.
+        </p>
+      </li>
+      <li>
+        <p>
+          I have always been enthusiastic about learning new technologies and
+          discovering the <strong>best practices</strong> in any field I have
+          worked in.
         </p>
       </li>
     </ul>
@@ -106,10 +120,6 @@
       <img
         src="https://img.shields.io/badge/GitLabCI-%23181717.svg?style=for-the-badge&amp;logo=gitlab&amp;logoColor=white"
         alt="GitLab CI"
-      />
-      <img
-        src="https://img.shields.io/badge/spark-003545?style=for-the-badge&amp;logo=spark&amp;logoColor=white"
-        alt="Apache Spark"
       />
       <img
         src="https://img.shields.io/badge/linux-%2300f.svg?style=for-the-badge&amp;logo=linux&amp;logoColor=white"
