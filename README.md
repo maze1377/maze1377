@@ -37,7 +37,7 @@
         <p>
           I'm a <strong>Software Engineer</strong> with
           <strong>+4 years</strong> of experience in
-          <strong>large scale production</strong>,
+          <strong>large-scale production</strong>,
           <strong>distributed systems</strong>,
           <strong>microservice architecture</strong>, and
           <strong>DevOps</strong> engineering.
@@ -55,7 +55,7 @@
       <li>
         <p>
           I consider myself as a <strong>committed</strong> person, with good
-          <strong>teamwork</strong> skills and a great sense of
+          <strong>teamwork</strong> skills and adept at
           <strong>solution providing</strong>.
         </p>
       </li>
